@@ -1,0 +1,4 @@
+URL1 https://www.amazon.in/
+URL2 https://www.flipkart.com/
+URL3 https://www.tripadvisor.in/
+BROWSER CHROME
